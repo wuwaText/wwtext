@@ -1,0 +1,39 @@
+diff --git a/3.7.10-prod/MultiText_fr.json b/3.7.12-prod/MultiText_fr.json
+index 21df669..07ffb30 100644
+--- a/3.7.10-prod/MultiText_fr.json
++++ b/3.7.12-prod/MultiText_fr.json
+@@ -32902,7 +32902,7 @@
+   "DangoBrawlRole_80700019": "Sigrika",
+   "DangoBrawlRole_80700020": "Aemeath",
+   "DangoBrawlRole_80700021": "Lynae",
+-  "DangoBrawlShopEvt_Des_01": "Obtient l'<te href=853717>, l</te><te href=853718>, l'</te><te href=853719>, les </te><te href=853720>Gantelets Novices</te> et les <te href=853721>Pistolets Novices</te>.",
++  "DangoBrawlShopEvt_Des_01": "Obtient l'<te href=853717>Epée Novice</te>, l'<te href=853718>Sabre Novice</te>, l'<te href=853719>Amplificateur Novice</te>, les <te href=853720>Gantelets Novices</te> et les <te href=853721>Pistolets Novices</te>.",
+   "DangoBrawlShopEvt_Des_02": "Obtient le <te href=853722>Cristal très « commun »</te> et 4 Pièces de Bêe.",
+   "DangoBrawlShopEvt_Des_03": "Obtient la <te href=853723>Cloche monumentale</te> et 1 Pièce de Bêe.",
+   "DangoBrawlShopEvt_Des_04": "Obtient 2 Pierres de pacte raffinées aléatoires et le <te href=853724>Dispositif de Pierre de pacte</te>.",
+@@ -83776,9 +83776,9 @@
+   "GuideFocusNew_23092_Content": "Modifiez la vitesse des animations de combat.",
+   "GuideFocusNew_23093_Content": "Modifiez la vitesse des animations de combat.",
+   "GuideFocusNew_23094_Content": "Modifiez la vitesse des animations de combat.",
+-  "GuideFocusNew_23095_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
+-  "GuideFocusNew_23096_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
+-  "GuideFocusNew_23097_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
++  "GuideFocusNew_23095_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
++  "GuideFocusNew_23096_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
++  "GuideFocusNew_23097_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
+   "GuideFocusNew_23098_Content": "Une tentative de défi est déduite lorsqu’une bataille est perdue. Le défi échoue lorsque toutes les tentatives de défi sont épuisées.",
+   "GuideFocusNew_23099_Content": "Une tentative de défi est déduite lorsqu’une bataille est perdue. Le défi échoue lorsque toutes les tentatives de défi sont épuisées.",
+   "GuideFocusNew_230_Content": "Équipez-le pour débloquer la Compétence d'Écho et les attributs supplémentaires",
+@@ -83864,9 +83864,9 @@
+   "GuideFocusNew_23179_Content": "Essayez de relever le défi avec un autre personnage",
+   "GuideFocusNew_23180_Content": "Essayez de relever le défi avec un autre personnage",
+   "GuideFocusNew_23181_Content": "Essayez de relever le défi avec un autre personnage",
+-  "GuideFocusNew_23182_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
+-  "GuideFocusNew_23183_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
+-  "GuideFocusNew_23184_Content": "Remportez une bataille pour obtenir un trophée. Essayez de tous les obtenir pour gagner une victoire impeccable !",
++  "GuideFocusNew_23182_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
++  "GuideFocusNew_23183_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
++  "GuideFocusNew_23184_Content": "Remportez une bataille pour obtenir un trophée. Obtenez-les tous pour une victoire parfaite !",
+   "GuideFocusNew_23185_Content": "Une tentative de défi est déduite lorsqu’une bataille est perdue. Le défi échoue lorsque toutes les tentatives de défi sont épuisées.",
+   "GuideFocusNew_23186_Content": "Une tentative de défi est déduite lorsqu’une bataille est perdue. Le défi échoue lorsque toutes les tentatives de défi sont épuisées.",
+   "GuideFocusNew_23187_Content": "Une tentative de défi est déduite lorsqu’une bataille est perdue. Le défi échoue lorsque toutes les tentatives de défi sont épuisées.",
